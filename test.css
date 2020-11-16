@@ -1,5 +1,5 @@
 body{
-	background-color: lightgrey;
+	background-color: cornsilk;
 }
 h1{
 	font-size: 30px;
@@ -20,9 +20,9 @@ h2{
 }
 
 .big.uppercase{
-	color: darkred;
+	color: indigo;
 }
 
 h1 span{
-	color: violet;
+	color: darkslateblue;
 }		
